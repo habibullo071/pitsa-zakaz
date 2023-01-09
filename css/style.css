@@ -1,0 +1,77 @@
+*{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+h1{
+    width: 200px;
+    position: absolute;
+    margin-left: 350px;
+}
+body{
+    background-color: blueviolet;
+    background-image: url('https://kartinkin.net/uploads/posts/2021-07/1627205690_24-kartinkin-com-p-fon-dlya-pitstserii-krasivo-27.jpg') ;height: -100px;
+    margin-top:40px;
+}
+.container{
+    width: 80%;
+    margin: 10px auto;
+    height: 500px;
+    display: flex;
+    background-color: rgba(177, 172, 172, 0.77)
+}
+.left{
+    width: 50%;
+    height: 100%;
+    margin-left: 50px;
+}
+.qalinligi{
+    padding: 5px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: bold;
+}
+.kattaligi__Label{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: large;
+    font-weight: bolder;
+    color: rgb(104, 102, 102);
+}
+.kattaligi__input{
+    width: 70px;
+    height: 70px;
+    
+}
+.ustiga__input{
+    width: 50px;
+    height: 20px;
+    font-size: large;
+    font-weight: bolder;
+}
+.qoshimcha{
+    display: flex;
+    justify-content: space-between;
+    width: 50px;
+    font-size: large;
+    font-weight: bolder;
+}
+.btn{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-top: 500px;
+}
+
+.label{
+    width: 100px;
+    height: 10px;
+}
+.right{
+    width: 50%;
+    height: 100%;
+    width: 50px;
+    height: 20px;
+    font-size: large;
+    font-weight: bolder;
+}
